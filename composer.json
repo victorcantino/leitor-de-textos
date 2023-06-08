@@ -1,0 +1,17 @@
+{
+    "name": "victor/leitor-de-cupom-fiscal",
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "Victor\\LeitorDeCupomFiscal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Victor",
+            "email": "victor.cantino@gmail.com"
+        }
+    ]
+}
